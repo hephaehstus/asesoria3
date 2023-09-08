@@ -1,0 +1,49 @@
+html5
+
+main{
+font-family: verdana;    
+}
+
+header {
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+article {
+    text-align: center;}
+
+    .card-header {
+    background-color: skyblue;
+    color: white;
+    font-weight: 600d;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 28px;
+}
+
+
+
+
+.description br {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 2px;
+}
+
+.button {
+
+    background-color: crimson;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
